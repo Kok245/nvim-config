@@ -1,1 +1,2 @@
 My neovim config
+# handle the edge case from the last release
