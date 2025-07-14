@@ -1,2 +1,3 @@
 My neovim config
 # handle the edge case from the last release
+# drop an unused branch
